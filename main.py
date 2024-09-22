@@ -97,6 +97,10 @@ with_message_history = RunnableWithMessageHistory(
     history_messages_key="chat_history",
 )
 
+@app.get("/")
+def read_root():
+    return {"message": "success"}
+
 add_routes(
     app,
     with_message_history,
