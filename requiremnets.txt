@@ -1,2 +1,6 @@
+dotenv
+langchain-google-genai
+langchain-core
 fastapi
-uvicorn
+langserve
+langchain-community
