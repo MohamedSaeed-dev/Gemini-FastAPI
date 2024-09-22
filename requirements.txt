@@ -1,6 +1,16 @@
+# Environment management
 python-dotenv
-langchain-google-genai
-langchain-core
+
+# FastAPI and CORS middleware
 fastapi
+uvicorn
+python-multipart
+
+# Langchain and related dependencies
+langchain-core
+langchain
 langserve
 langchain-community
+langchain-google-genai
+
+# Add any other essential packages here, such as database connectors or additional FastAPI tools.
