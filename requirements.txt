@@ -13,4 +13,5 @@ langserve
 langchain-community
 langchain-google-genai
 
+sse_starlette
 # Add any other essential packages here, such as database connectors or additional FastAPI tools.
