@@ -12,6 +12,6 @@ langchain
 langserve
 langchain-community
 langchain-google-genai
-
+httpx==0.27.2
 sse_starlette
 # Add any other essential packages here, such as database connectors or additional FastAPI tools.
